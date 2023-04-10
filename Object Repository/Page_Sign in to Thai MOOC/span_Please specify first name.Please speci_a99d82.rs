@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Please specify first name.Please speci_a99d82</name>
+   <tag></tag>
+   <elementGuidId>348996c9-9231-4de1-a394-3f49390aa57c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kc-content-wrapper']/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.kc-feedback-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5d5df7f8-7697-4e5e-b3e4-9438d26e11e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>kc-feedback-text</value>
+      <webElementGuid>57d2096c-4eaf-4060-9157-b9a2a34476c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Please specify first name.Please specify last name.Please specify email.Password confirmation doesn't match.</value>
+      <webElementGuid>ce20d010-d57d-4a2d-908d-bac9016dd39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kc-content-wrapper&quot;)/div[@class=&quot;alert alert-error&quot;]/span[@class=&quot;kc-feedback-text&quot;]</value>
+      <webElementGuid>f2e39956-1ac4-40d6-a207-3155a4d1d7ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kc-content-wrapper']/div/span[2]</value>
+      <webElementGuid>28644e61-24a2-4903-8186-27eef05e0e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[2]/following::span[2]</value>
+      <webElementGuid>af58499d-ba23-4e20-b48b-ca50285a7dd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ภาษาไทย'])[1]/following::span[2]</value>
+      <webElementGuid>8197ff09-2625-4e6b-b062-350df77b11d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::span[1]</value>
+      <webElementGuid>d3759fb8-4b97-40bf-aa08-21e25091009b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please specify first name.']/parent::*</value>
+      <webElementGuid>d56679fe-0658-41ee-9618-794c460f7410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>7bf64ba8-02bc-4625-b56c-dd14e45a2d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;Please specify first name.Please specify last name.Please specify email.Password confirmation doesn&quot; , &quot;'&quot; , &quot;t match.&quot;) or . = concat(&quot;Please specify first name.Please specify last name.Please specify email.Password confirmation doesn&quot; , &quot;'&quot; , &quot;t match.&quot;))]</value>
+      <webElementGuid>11862dd5-1a5e-48ad-8228-f32272d0178a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
